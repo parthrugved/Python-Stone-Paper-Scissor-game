@@ -1,6 +1,6 @@
 import random
 random_number = random.randint(1,3)
-print(random_number)
+# print(random_number)
 print("Welcome , This is a Stone Paper Scissor Game")
 
 
