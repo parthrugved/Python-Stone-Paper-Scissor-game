@@ -66,7 +66,7 @@ README.md
 
 ---
 
-## 🚀 Future Improvements (Optional Upgrades)
+## 🚀 Future Improvements 
 
 * Add score tracking
 * Add multiple rounds
